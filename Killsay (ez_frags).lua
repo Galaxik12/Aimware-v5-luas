@@ -1,10 +1,10 @@
 local killsays = {
-   [1] = "Visit www.EZfrags.co.uk for the finest public & private CS:GO cheats",
-   [2] = "Stop being a noob! Get good with www.EZfrags.co.uk",
-   [3] = "I'm not using www.EZfrags.co.uk, you're just bad",
-   [4] = "You just got pwned by EZfrags, the #1 CS:GO cheat",
-   [5] = "If I was cheating, I'd use www.EZfrags.co.uk",
-   [6] = "Think you could do better? Not without www.EZfrags.co.uk",
+   [1] = " NeverLose | OWNED BY GALAXIK!",
+   [2] = "NeverLose | OWNED BY GALAXIK!",
+   [3] = "NeverLose | OWNED BY GALAXIK!",
+   [4] = "NeverLose | OWNED BY GALAXIK!",
+   [5] = "NeverLose | OWNED BY GALAXIK!",
+   [6] = "NeverLose | OWNED BY GALAXIK!",
 
 }
 
